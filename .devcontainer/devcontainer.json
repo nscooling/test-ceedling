@@ -1,0 +1,7 @@
+{
+	"image": "feabhas/ceedling",
+	"extensions": [
+		"ms-vscode.cpptools",
+	],
+	"remoteUser": "feabhas"
+}
